@@ -1,8 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome&fontSize=90)
 
+<h3 align="center"><b> :book: Tech Stack :book: </b></h3>
 <div align="center">
-:book:Tech Stack:book:
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 </div>
+
+<h3 align="center"><b> :mailbox: Social :mailbox: </b></h3>
+
 
 <!--
 **kinggodeasy/kinggodeasy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
