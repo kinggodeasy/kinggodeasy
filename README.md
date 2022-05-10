@@ -2,12 +2,13 @@
 
 <h3 align="center"><b> :book: Tech Stack :book: </b></h3>
 <div align="center">
- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+ <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 </div>
 
 <h3 align="center"><b> :mailbox: Social :mailbox: </b></h3>
 <div align="center">
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kinggodeasy000624@gmail.com)](mailto:kinggodeasy000624@gmail.com)
+<a href="mailto:kinggodeasy000624@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kinggodeasy000624@gmail.com"/></a>
+<a href="https://velog.io/@show000624"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@show000624"/></a>&nbsp
 </div>
 
 
