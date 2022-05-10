@@ -6,6 +6,10 @@
 </div>
 
 <h3 align="center"><b> :mailbox: Social :mailbox: </b></h3>
+<div align="center">
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kinggodeasy000624@gmail.com)](mailto:kinggodeasy000624@gmail.com)
+</div>
+
 
 
 <!--
