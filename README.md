@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome&fontSize=90)
 
+<h3 align="center"><b> :raised_hands: Introduce :raised_hands: </b></h3>
+<div align="center">
+:one: Gyeong Sang National University:school: - Big data major in computer engineering, 4th grade 
+</div>
 <h3 align="center"><b> :book: Tech Stack :book: </b></h3>
 <div align="center">
  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
