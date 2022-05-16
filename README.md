@@ -2,7 +2,10 @@
 
 <h3 align="center"><b> :raised_hands: Introduce :raised_hands: </b></h3>
 <div align="center">
-:one: Gyeong Sang National University:school: - Big data major in computer engineering, 4th grade 
+:one: Gyeong Sang National University:school: - Big data major in computer engineering, 4th grade :computer:
+</div>
+<div align="center">
+:two:I'm planning to go to graduate school :rocket:
 </div>
 <h3 align="center"><b> :book: Tech Stack :book: </b></h3>
 <div align="center">
