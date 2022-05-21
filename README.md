@@ -7,6 +7,10 @@
 <div align="center">
 :two: I'm planning to go to graduate school :rocket:
 </div>
+<div align="center">
+:three:
+</div>
+
 <h3 align="center"><b> :book: Tech Stack :book: </b></h3>
 <div align="center">
  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
