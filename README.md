@@ -8,7 +8,7 @@
 :two: I'm planning to go to graduate school :rocket:
 </div>
 <div align="center">
-:three:
+:three: I am interested in Big Data and Artificial Intelligence.
 </div>
 
 <h3 align="center"><b> :book: Tech Stack :book: </b></h3>
