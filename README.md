@@ -1,17 +1,20 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome&fontSize=90)
 
-<h3 align="center"><b> :raised_hands: Introduce :raised_hands: </b></h3>
+<h3 align="center"><b> 🙌 Introduce 🙌 </b></h3>
 <div align="center">
-:one: Gyeong Sang National University:school: - Big data major in computer engineering, 4th grade :computer:
+1️⃣ Gyeong Sang National University 🏫 - Big data major in computer engineering, 4th grade 💻
 </div>
 <div align="center">
-:two: I'm planning to go to graduate school :rocket:
+2️⃣ I'm planning to go to graduate school :rocket:
 </div>
 <div align="center">
-:three: I am interested in Big Data and Artificial Intelligence.
+3️⃣ I am interested in Big Data and Artificial Intelligence.
+</div>
+<div align="center">
+4️⃣ I want to do Python performance improvement research
 </div>
 
-<h3 align="center"><b> :book: Tech Stack :book: </b></h3>
+<h3 align="center"><b> 📖 Tech Stack 📖 </b></h3>
 <div align="center">
  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
@@ -20,26 +23,9 @@
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 </div>
 
-<h3 align="center"><b> :mailbox: Social :mailbox: </b></h3>
+<h3 align="center"><b> 📫 Social 📫 </b></h3>
 <div align="center">
  <a href="mailto:kinggodeasy000624@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-  square&logo=Gmail&logoColor=white&link=kinggodeasy000624@gmail.com"/></a>
  <a href="https://velog.io/@show000624"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@show000624"/></a>
 <a href="https://twitter.com/kinggoedasy"><img src="https://img.shields.io/badge/Twitter%20-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/kinggoedasy"/></a>
 </div>
-
-
-
-<!--
-**kinggodeasy/kinggodeasy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
