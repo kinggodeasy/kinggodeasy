@@ -13,7 +13,9 @@
 <div align="center">
 4️⃣ I want to do Python performance improvement research
 </div>
-
+<div align="center">
+5️⃣ 4th grade, 2nd semester off
+</div>
 <h3 align="center"><b> 📖 Tech Stack 📖 </b></h3>
 <div align="center">
  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
