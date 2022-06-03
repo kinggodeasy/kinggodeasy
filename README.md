@@ -2,7 +2,7 @@
 
 <h3 align="center"><b> 🙌 Introduce 🙌 </b></h3>
 <div align="center">
-1️⃣ Gyeong Sang National University 🏫 - Big data major in computer engineering, 4th grade 💻
+1️⃣ Gyeong Sang National University 🏫 - Big data major in Computer engineering, 4th grade 💻
 </div>
 <div align="center">
 2️⃣ I'm planning to go to graduate school :rocket:
