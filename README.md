@@ -11,7 +11,7 @@
 3️⃣ I am interested in Big Data and Artificial Intelligence.
 </div>
 <div align="center">
-4️⃣ I want to do Python performance improvement research
+4️⃣ I want to do Python performance improvement research.
 </div>
 <div align="center">
 5️⃣ In the second semester of the fourth grade, I will take a leave of absence and study supplementary studies.
