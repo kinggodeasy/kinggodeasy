@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome&fontSize=90)
 
-<h3 align="center"><b> 🙌 Introduce 🙌 </b></h3>
+<h3 align = "center"><b> 🙌 Introduce 🙌 </b></h3>
 <div align="center">
 1️⃣ Gyeong Sang National University 🏫 - Big data major in Computer Science, 4th grade 💻
 </div>
