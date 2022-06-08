@@ -5,7 +5,7 @@
 1️⃣ Gyeong Sang National University 🏫 - Big data major in Computer Science, 4th grade 💻
 </div>
 <div align="center">
-2️⃣ I'm planning to go to graduate school 🚀
+2️⃣ I'm planning to go to graduate school. 🚀
 </div>
 <div align="center">
 3️⃣ I am interested in Big Data and Artificial Intelligence.
