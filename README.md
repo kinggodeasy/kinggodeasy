@@ -13,7 +13,7 @@
 <div align = "center">
 4️⃣ I want to do Python performance improvement research.
 </div>
-<div align="center">
+<div align = "center">
 5️⃣ In the second semester of the fourth grade, I will take a leave of absence and study supplementary studies.
 </div>
 <h3 align="center"><b> 📖 Tech & Stack 📖 </b></h3>
