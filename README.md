@@ -10,7 +10,7 @@
 <div align = "center">
 3️⃣ I am interested in Big Data and Artificial Intelligence.
 </div>
-<div align="center">
+<div align = "center">
 4️⃣ I want to do Python performance improvement research.
 </div>
 <div align="center">
