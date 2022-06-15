@@ -16,7 +16,7 @@
 <div align = "center">
 5️⃣ In the second semester of the fourth grade, I will take a leave of absence and study supplementary studies.
 </div>
-<h3 align="center"><b> 📖 Tech & Stack 📖 </b></h3>
+<h3 align = "center"><b> 📖 Tech & Stack 📖 </b></h3>
 <div align="center">
  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
