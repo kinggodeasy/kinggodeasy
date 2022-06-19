@@ -26,7 +26,7 @@
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 </div>
 
-<h3 align ="center"><b> 📫 Social 📫 </b></h3>
+<h3 align = "center"><b> 📫 Social 📫 </b></h3>
 <div align="center">
  <a href="mailto:kinggodeasy000624@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-  square&logo=Gmail&logoColor=white&link=kinggodeasy000624@gmail.com"/></a>
  <a href="https://velog.io/@show000624"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@show000624"/></a>
