@@ -30,6 +30,6 @@
 <div align = "center">
  <a href = "mailto:kinggodeasy000624@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-  square&logo=Gmail&logoColor=white&link=kinggodeasy000624@gmail.com"/></a>
  <a href = "https://velog.io/@show000624"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo =Vimeo&logoColor=white&link=https://velog.io/@show000624"/></a>
-<a href="https://twitter.com/kinggoedasy"><img src="https://img.shields.io/badge/Twitter%20-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/kinggoedasy"/></a>
+<a href= "https://twitter.com/kinggoedasy"><img src="https://img.shields.io/badge/Twitter%20-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/kinggoedasy"/></a>
 <a href= "https://www.notion.so/Lee-Jihoon-7acbc4147201450786ddabe95920148d"><img src="https://img.shields.io/badge/Notion%20-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Lee-Jihoon-7acbc4147201450786ddabe95920148d"/></a>
 </div>
