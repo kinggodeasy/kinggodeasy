@@ -16,6 +16,7 @@
 <div align = "center">
 5️⃣ Student on a leave of absence
 </div>
+
 <h3 align = "center"><b> 📖 Tech & Stack 📖 </b></h3>
 <div align = "center">
  <img src= "https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
